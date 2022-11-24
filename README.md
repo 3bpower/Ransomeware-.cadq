@@ -3,6 +3,7 @@ I Need Help for Ransomeware .cadq Virus Remover
 my all files extension are now .cadq 
 
 this is the attacker txt file in my data
+file name: _readme.txt
 ========================================
 ATTENTION!
 
